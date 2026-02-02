@@ -1,0 +1,115 @@
+2026-01-13 15:47:41,799 | INFO | Use pytorch device_name: cpu
+2026-01-13 15:47:41,799 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 15:47:56,887 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:48:01,344 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:48:08,306 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:48:22,078 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:48:29,962 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:48:30,681 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:48:35,288 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:48:35,648 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:49:05,190 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:49:05,804 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:50:18,408 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:50:18,853 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:50:25,064 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:50:25,446 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:50:33,767 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:50:34,278 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:50:38,537 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:50:38,874 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:51:45,073 | INFO | Use pytorch device_name: cpu
+2026-01-13 15:51:45,073 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 15:51:57,840 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:52:05,315 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 15:52:06,038 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 15:52:13,097 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:33:31,997 | INFO | Use pytorch device_name: cpu
+2026-01-13 17:33:31,997 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 17:33:47,038 | WARNING | '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: c53c5eae-daba-493f-8dfa-4b0d9836c5cf)')' thrown while requesting HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json
+2026-01-13 17:33:47,038 | WARNING | Retrying in 1s [Retry 1/5].
+2026-01-13 17:33:54,644 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:34:00,135 | INFO | Listen timeout / no speech
+2026-01-13 17:34:06,129 | INFO | Listen timeout / no speech
+2026-01-13 17:34:11,637 | INFO | Listen timeout / no speech
+2026-01-13 17:34:17,144 | INFO | Listen timeout / no speech
+2026-01-13 17:34:22,652 | INFO | Listen timeout / no speech
+2026-01-13 17:34:28,187 | INFO | Listen timeout / no speech
+2026-01-13 17:34:35,585 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:34:41,075 | INFO | Listen timeout / no speech
+2026-01-13 17:34:49,020 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:34:54,559 | INFO | Listen timeout / no speech
+2026-01-13 17:34:58,236 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:35:01,247 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:35:06,731 | INFO | Listen timeout / no speech
+2026-01-13 17:35:12,242 | INFO | Listen timeout / no speech
+2026-01-13 17:35:17,746 | INFO | Listen timeout / no speech
+2026-01-13 17:35:23,735 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:35:29,222 | INFO | Listen timeout / no speech
+2026-01-13 17:35:34,737 | INFO | Listen timeout / no speech
+2026-01-13 17:35:40,252 | INFO | Listen timeout / no speech
+2026-01-13 17:35:45,854 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:35:52,511 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:35:53,227 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:36:21,387 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:36:29,887 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:36:35,827 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:36:36,442 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:36:59,163 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:36:59,776 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:40:55,783 | INFO | Use pytorch device_name: cpu
+2026-01-13 17:40:55,783 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 17:41:13,544 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:41:16,988 | INFO | Session activated
+2026-01-13 17:41:23,022 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:41:23,760 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:41:57,370 | INFO | Session auto-slept
+2026-01-13 17:42:04,641 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:48:03,535 | INFO | Use pytorch device_name: cpu
+2026-01-13 17:48:03,535 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 17:48:14,591 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:48:33,770 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:48:52,883 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:48:53,383 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:49:08,280 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:49:22,719 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:49:36,236 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:49:36,708 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:50:00,795 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:50:05,830 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:50:25,859 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:50:26,319 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:50:52,218 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:51:07,886 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:51:21,300 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:51:27,547 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:51:27,987 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:51:46,800 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:55:22,122 | INFO | Use pytorch device_name: cpu
+2026-01-13 17:55:22,122 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 17:55:36,079 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:55:51,131 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 17:55:52,054 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 17:56:15,094 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:06:32,589 | INFO | Use pytorch device_name: cpu
+2026-01-13 18:06:32,589 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 18:06:55,724 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 18:06:59,309 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:07:14,318 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:07:26,285 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 18:07:26,652 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:07:44,396 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:07:50,653 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 18:07:51,173 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:08:09,556 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:08:19,284 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 18:08:19,694 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:08:35,977 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:13:19,224 | INFO | Use pytorch device_name: cpu
+2026-01-13 18:13:19,224 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 18:13:36,831 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 18:13:40,687 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:14:00,795 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:14:05,815 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-01-13 18:14:06,326 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 18:14:31,107 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Audio Temp Files
+temp_input.wav
+temp_output.mp3
+tts_*.mp3
+
+# Memory / Database
+kevin_memory_db/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db

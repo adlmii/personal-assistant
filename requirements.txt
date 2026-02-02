@@ -1,0 +1,12 @@
+groq
+edge-tts
+SpeechRecognition
+pyaudio
+python-dotenv
+colorama
+pygame
+AppOpener
+chromadb
+sentence-transformers
+pyautogui
+pygetwindow
